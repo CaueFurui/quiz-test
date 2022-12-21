@@ -1,4 +1,4 @@
-[
+const questions = [
   {
     "category": "Entertainment%3A%20Video%20Games",
     "type": "multiple",
@@ -234,3 +234,5 @@
     ]
   }
 ]
+
+export default questions
